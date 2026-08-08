@@ -27,4 +27,4 @@ The Spring Boot application started successfully on port 8080.
 
 ## Status
 
-✅ Day 1 Completed
+Day 1 Completed
