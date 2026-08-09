@@ -73,7 +73,7 @@ The goal is to move from strong fundamentals to **real-world backend development
 | Day | Topic | Status |
 |---|---|---|
 | **01** | Spring Boot Project Setup | ✅ Completed |
-| **02** | REST Controller | ⏳ Upcoming |
+| **02** | REST Controller | ✅ Completed |
 | **03** | REST API & HTTP Methods | ⏳ Upcoming |
 | **04** | Service Layer | ⏳ Upcoming |
 | **05** | Repository Layer | ⏳ Upcoming |
