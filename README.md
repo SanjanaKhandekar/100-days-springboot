@@ -1,64 +1,54 @@
-# 🚀 100 Days of Spring Boot
+### 100 Days of Spring Boot
 
-<p align="center">
-  <strong>Building. Learning. Practicing. Growing.</strong>
-</p>
-
-<p align="center">
-  A 100-day journey focused on Java, Spring Boot, Backend Development, REST APIs, Databases, Testing, DevOps and Cloud.
-</p>
+A hands-on journey to strengthen Java backend development skills through 100 days of consistent learning, coding, and project development.
 
 ---
 
-## 👋 About This Challenge
+### About This Challenge
 
-Welcome to my **100 Days of Spring Boot Challenge**!
+This repository documents my journey of learning and building with **Java and Spring Boot** through consistent, hands-on practice.
 
-This repository documents my journey of learning and building with **Java and Spring Boot** through consistent daily practice.
+The goal is to progress from Spring Boot fundamentals to real-world backend development by building practical applications, understanding backend architecture, improving problem-solving skills, and following clean coding practices.
 
-The goal is to move from strong fundamentals to **real-world backend development** by building practical applications, improving problem-solving skills, following clean coding practices, and maintaining consistent GitHub activity.
-
-> 🎯 **Goal: Become job-ready for Software Developer and Java Backend opportunities.**
+> Goal: Become job-ready for Java Backend and Software Developer opportunities.
 
 ---
 
-## 🎯 Challenge Goals
+## Challenge Goals
 
-- ☕ Strengthen Java programming
-- 🌱 Master Spring Boot
-- 🌐 Build RESTful APIs
-- 🗄️ Work with SQL and databases
-- 🔗 Learn JPA & Hibernate
-- 🔐 Implement authentication and authorization
-- 🧪 Practice unit and integration testing
-- 🐳 Learn Docker
-- ⚙️ Understand CI/CD
-- ☁️ Explore AWS and cloud deployment
-- 🏗️ Build real-world backend projects
-- 🧠 Improve problem-solving and clean coding
-- 📈 Build a strong GitHub portfolio
-- 💼 Prepare for software development opportunities
+- Strengthen Java programming fundamentals
+- Learn and practice Spring Boot
+- Build RESTful APIs
+- Work with SQL and databases
+- Learn JPA and Hibernate
+- Implement authentication and authorization
+- Practice unit and integration testing
+- Learn Docker and CI/CD
+- Explore AWS and cloud deployment
+- Build real-world backend applications
+- Improve problem-solving and clean coding
+- Build a strong GitHub portfolio
 
 ---
 
-## 🛠️ Technology Stack
+## Technology Stack
 
-<p>
-  <img src="https://img.shields.io/badge/Java-17-orange?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-3.x-brightgreen?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+### Currently Using
 
-### 🔜 Technologies I Will Explore
+- Java
+- Spring Boot
+- Maven
+- REST APIs
+- Git
+- GitHub
+
+### Will Explore
 
 - Spring Data JPA
 - Hibernate
 - Spring Security
 - JWT
+- SQL
 - JUnit
 - Mockito
 - Docker
@@ -68,24 +58,63 @@ The goal is to move from strong fundamentals to **real-world backend development
 
 ---
 
-## 📅 Challenge Progress
+## Current Progress
 
-| Day | Topic | Status |
-|---|---|---|
-| **01** | Spring Boot Project Setup | ✅ Completed |
-| **02** | REST Controller | ✅ Completed |
-| **03** | REST API & HTTP Methods | ⏳ Upcoming |
-| **04** | Service Layer | ⏳ Upcoming |
-| **05** | Repository Layer | ⏳ Upcoming |
-| **06** | Database Integration | ⏳ Upcoming |
-| **07** | JPA & Hibernate | ⏳ Upcoming |
-| **08–100** | Backend Development & Projects | ⏳ Upcoming |
+**3 / 100 Days Completed — 3%**
 
-> 🔄 This table will be updated as the challenge progresses.
+![Progress](https://img.shields.io/badge/Progress-3%25-brightgreen)
 
 ---
 
-## 📂 Repository Structure
+## Challenge Progress
+
+| Day | Topic | Status |
+|---|---|---|
+| **01** | Spring Boot Project Setup | Completed |
+| **02** | REST Controller | Completed |
+| **03** | REST API & HTTP Methods | Completed |
+| **04** | Service Layer | Upcoming |
+| **05** | Repository Layer | Upcoming |
+| **06** | Database Integration | Upcoming |
+| **07** | JPA & Hibernate | Upcoming |
+| **08–100** | Backend Development & Projects | Upcoming |
+
+---
+
+## Main Project
+
+### Employee Management System
+
+The main backend project being developed throughout this challenge.
+
+### Current Features
+
+- Spring Boot project setup
+- REST Controller
+- GET API
+- POST API
+- JSON request and response handling
+- Basic controller and model structure
+
+### Planned Features
+
+- Service Layer
+- Repository Layer
+- Database Integration
+- JPA & Hibernate
+- Validation
+- Exception Handling
+- Spring Security
+- JWT Authentication
+- Unit Testing
+- Integration Testing
+- Docker
+- CI/CD
+- AWS Deployment
+
+---
+
+## Repository Structure
 
 ```text
 100-days-springboot/
@@ -93,15 +122,8 @@ The goal is to move from strong fundamentals to **real-world backend development
 ├── README.md
 │
 ├── Day-01-Project-Setup/
-│   │
 │   ├── README.md
-│   │
 │   └── employee-management-system/
-│       ├── .mvn/
-│       ├── src/
-│       ├── pom.xml
-│       ├── mvnw
-│       └── mvnw.cmd
 │
 ├── Day-02-REST-Controller/
 │   └── README.md
