@@ -31,6 +31,7 @@ The controller now communicates with the service layer to perform employee opera
 
 ## Architecture
 
+```text
 Client
    ↓
 Controller
