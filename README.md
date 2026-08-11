@@ -60,9 +60,9 @@ The goal is to progress from Spring Boot fundamentals to real-world backend deve
 
 ## Current Progress
 
-**3 / 100 Days Completed — 3%**
+**4 / 100 Days Completed — 4%**
 
-![Progress](https://img.shields.io/badge/Progress-3%25-brightgreen)
+![Progress](https://img.shields.io/badge/Progress-4%25-brightgreen)
 
 ---
 
@@ -73,7 +73,7 @@ The goal is to progress from Spring Boot fundamentals to real-world backend deve
 | **01** | Spring Boot Project Setup | Completed |
 | **02** | REST Controller | Completed |
 | **03** | REST API & HTTP Methods | Completed |
-| **04** | Service Layer | Upcoming |
+| **04** | Service Layer | Completed |
 | **05** | Repository Layer | Upcoming |
 | **06** | Database Integration | Upcoming |
 | **07** | JPA & Hibernate | Upcoming |
@@ -131,4 +131,6 @@ The main backend project being developed throughout this challenge.
 ├── Day-03-REST-API/
 │   └── README.md
 │
+├── Day-04-Service-Layer/
+│   └── README.md
 └── ...
