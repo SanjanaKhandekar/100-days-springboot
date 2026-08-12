@@ -1,9 +1,16 @@
 package com.sanjana.employee_management_system.model;
 
+import jakarta.persistence.Entity;
+import jakarta.persistence.Id;
+
+@Entity
 public class Employee {
 
+    @Id
     private Long id;
+
     private String name;
+
     private String role;
 
     public Employee() {
