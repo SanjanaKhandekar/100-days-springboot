@@ -60,7 +60,7 @@ The goal is to progress from Spring Boot fundamentals to real-world backend deve
 
 ## Current Progress
 
-**4 / 100 Days Completed — 5%**
+**5 / 100 Days Completed — 5%**
 
 ![Progress](https://img.shields.io/badge/Progress-5%25-brightgreen)
 
