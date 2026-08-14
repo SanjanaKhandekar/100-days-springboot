@@ -60,9 +60,9 @@ The goal is to progress from Spring Boot fundamentals to real-world backend deve
 
 ## Current Progress
 
-**5 / 100 Days Completed — 5%**
+**6 / 100 Days Completed — 6%**
 
-![Progress](https://img.shields.io/badge/Progress-5%25-brightgreen)
+![Progress](https://img.shields.io/badge/Progress-6%25-brightgreen)
 
 ---
 
@@ -75,7 +75,7 @@ The goal is to progress from Spring Boot fundamentals to real-world backend deve
 | **03** | REST API & HTTP Methods | Completed |
 | **04** | Service Layer | Completed |
 | **05** | Repository Layer | Completed |
-| **06** | Database Integration | Upcoming |
+| **06** | Database Integration | Completed |
 | **07** | JPA & Hibernate | Upcoming |
 | **08–100** | Backend Development & Projects | Upcoming |
 
